@@ -1,0 +1,25 @@
+.col{
+    background-color: black;
+    margin: 20px;
+    color: aliceblue;
+    height: 100px;
+}
+.col-md{
+    background-color: darkgray;
+    margin: 20px;
+    color: aliceblue;
+    height: 100px;
+}
+
+.col-sm{
+    background-color: gray;
+    margin: 20px;
+    color: aliceblue;
+    height: 100px;
+}
+.col-12{
+    background-color: crimson;
+    margin: 20px;
+    color: aliceblue;
+    height: 100px;
+}
